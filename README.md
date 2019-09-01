@@ -1,4 +1,2 @@
-# hello-world
-My first repository, for testing.
-
-Testing again 123, I am following the tutorial github is suggesting.
+# Random files
+My first repository, for storing random things.
